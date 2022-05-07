@@ -1,0 +1,15 @@
+{
+  "name": "warren-academy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "warren-academy.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Wagner Moreira",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
