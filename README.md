@@ -56,8 +56,7 @@ node warren-academy.js
 ### Alterando valores de entrada
 
 * Para alterar os valores de entrada, edite os parâmetros das respectivas funções: reverse(number), programing_class(number, array) e vector_sum(number, array).
-<div display='flex'>
-  <img src='./img/reverse-function.png' width='70%'>
-  <img src='./img/programming_class.png'width='70%'>
-  <img src='./img/vector_sum.png' width='70%'>
-</div>
+
+<img src='./img/reverse-function.png' width='70%'>
+<img src='./img/programming_class.png'width='70%'>
+<img src='./img/vector_sum.png' width='70%'>
