@@ -26,7 +26,7 @@ Solução do desafio de programação da Warren Tech Academy.
   <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
   <img src='https://img.shields.io/badge/npm-e34c26?style=for-the-badge&logo=npm&logoColor=white'>
   <img src='https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white'>
-  <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>
+  <img src='https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black'>
 </div>
 
 ### Clone o repositório
