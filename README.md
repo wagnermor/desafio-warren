@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/warren-academy-img.png">
+  <img src="./img/warren-academy-img.png" alt='Warren-academy' title='Desafio de programação - Warren Tech Academy'>
 </p>
 
 <h1 align="center">Desafio de Programação - Warren Tech Academy</h1>
