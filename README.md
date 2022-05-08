@@ -13,8 +13,10 @@ Solução do desafio de programação da Warren Tech Academy.
 
 * [X] **Desafio 01:** Construa um algoritmo que mostre na tela todos os números n onde a soma de n + reverso(n) resultem em números ímpares que estão abaixo de 1 milhão.
 <br>
+
 * [X] **Desafio 02:** Construa um algoritmo que dado o tempo de chegada de cada aluno e o limite x de alunos presentes, determina se a classe vai ser cancelada ou não ("Aula cancelada” ou “Aula normal”).
 <br>
+
 * [X] **Desafio 03:** Dado um vetor de números e um número n. Determine a soma com o menor número de elementos entre os números do vetor mais próxima de n e também mostre os elementos que compõem a soma. Para criar a soma, utilize qualquer elemento do vetor uma ou mais vezes.
 
 ## Como utilizar
